@@ -165,7 +165,7 @@ review the [contributing guidelines](CONTRIBUTING.md) if you'd like to help out.
 
 This repo is maintained and funded by [messy.studio, LLC](http://messy.studio).
 Tweet your questions or suggestions to
-[@messystudio](https://twitter.com/messystudio)
+[@messystudio](https://twitter.com/messy_studio)
 and while you're at it follow us too.
 
 Looking to run your own design sprint but want help from someone who has
