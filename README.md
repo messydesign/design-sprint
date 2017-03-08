@@ -1,9 +1,11 @@
+![Design Sprint Phases](/images/phases.png?raw=true "Design Sprint Phases")
+
 # Product Design Sprint
 
 This repo is a collection of documents intended to help guide a design sprint.
 It contains guidelines that should not be followed exactly.
 Each sprint should be tailored to the individual project.
-It is written by and for the thoughtbot team.
+It is written by and for the messy.studio team.
 
 * [Previous Sprints](Previous-Sprints)
 * [Pre-Sprint Preparation](0-Pre-Sprint)
@@ -165,11 +167,11 @@ review the [contributing guidelines](CONTRIBUTING.md) if you'd like to help out.
 
 This repo is maintained and funded by [messy.studio, LLC](http://messy.studio).
 Tweet your questions or suggestions to
-[@messystudio](https://twitter.com/messy_studio)
+[@messy_studio](https://twitter.com/messy_studio)
 and while you're at it follow us too.
 
 Looking to run your own design sprint but want help from someone who has
-experience running them before? [Hire us.](http://messy.studio/hire-us)
+experience running them before? [Hire us.](http://messy.studio.com/hire-us)
 
 ## License
 
