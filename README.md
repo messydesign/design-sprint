@@ -1,7 +1,3 @@
-# design-sprint
-Product Design Sprint Material
-![Design Sprint Phases]
-
 # Product Design Sprint
 
 This repo is a collection of documents intended to help guide a design sprint.
