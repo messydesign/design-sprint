@@ -36,7 +36,7 @@ Ask obvious questions and embrace the beginners mind.
 
 ---
 
-## Activities for Understand:
+## Activities for Understanding:
 
 #### [Needs / Wants / Desires](../Exercises/needs-wants-desires.md)
 
