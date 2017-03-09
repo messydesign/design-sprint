@@ -13,6 +13,7 @@ It is written by and for the messy.studio team.
 * [Diverge Phase](2-Diverge)
 * [Converge Phase](3-Converge)
 * [Prototype Phase](4-Prototype)
+* [Hi-Fi Mock Phase](5-Hi-Fidelity-Mocks)
 * [Test Phase](5-Test)
 
 ## What is a product design sprint?
@@ -113,7 +114,11 @@ should be determined by
 our time constraints
 and learning goals.
 
-#### [Test Phase](5-Test)
+#### [Hi Fidelity Mock Phase](5-Hi-Fidelity-Mocks)
+
+This step for us at messy.studio moves the wireframe a little beyond the basic structural benefits, moving toward the life-like qualities of design, but without distracting from the focus of function.
+
+#### [Test Phase](6-Test)
 
 The Test phase
 tests our prototype
@@ -151,6 +156,7 @@ to your own board to help guide and document your sprint.
   * [Day 2: Diverge](http://www.designstaff.org/articles/product-design-sprint-day-2-diverge-2012-10-26.html)
   * [Day 3: Decide](http://www.designstaff.org/articles/product-design-sprint-day-3-decide-2012-11-20.html)
   * [Day 4: Prototype](http://www.designstaff.org/articles/product-design-sprint-day-4-prototype-2013-01-07.html)
+  * [Day 5: Hi-Fidelity Mocks](http://steadfastcreative.com/low-fidelity-vs-high-fidelity-wireframes/)
   * [Day 5: Validate](http://www.designstaff.org/articles/product-design-sprint-day-5-validate-2013-03-07.html)
 * IDEO's [Human Centered Design Toolkit](http://www.ideo.com/work/human-centered-design-toolkit/)
 * [How To Conduct Your Own Google Ventures Design Sprint](http://www.fastcodesign.com/1672887/how-to-conduct-your-own-google-design-sprint)
@@ -171,7 +177,7 @@ Tweet your questions or suggestions to
 and while you're at it follow us too.
 
 Looking to run your own design sprint but want help from someone who has
-experience running them before? [Hire us.](http://messy.studio.com/hire-us)
+experience running them before? [Hire Us!](http://messy.studio.com/hire-us)
 
 ## License
 
