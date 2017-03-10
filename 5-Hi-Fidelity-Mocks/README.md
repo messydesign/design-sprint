@@ -22,3 +22,11 @@ The world’s best imaging and design app is at the core of almost every creativ
 #### [Adobe Illustrator](http://www.adobe.com/products/illustrator.html)
 
 The industry-standard vector graphics app lets you create logos, icons, sketches, typography, and complex illustrations for print, web, interactive, video, and mobile. Very helpful tutorials can be found on their [Tutorials](https://helpx.adobe.com/illustrator/tutorials.html) page of their website. 
+
+#### [Brand,ai](http://www.brand.ai)
+
+Cloud based pattern librray. This is also a plugin that we leverage heavily in Sketch so that everyone has the most up to date design assets. 
+
+#### [Zeplin](http://www.zeplin.io)
+
+Zeplin is a perfect place to have an up-to-date repository for pixel-perfect comps which anyone can see and comment on. Additionally, Zeplin is used to share assets between designers and devs. 
