@@ -1,6 +1,6 @@
 ![Design Sprint Phases](/images/logo.png?raw=true "Design Sprint Phases")
 
-# Product Design Sprint
+# Product Design Playbook
 
 This repo is a collection of documents intended to help guide a design sprint.
 It contains guidelines that should not be followed exactly.
