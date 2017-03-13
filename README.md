@@ -1,4 +1,4 @@
-![Design Sprint Phases](/images/phases.png?raw=true "Design Sprint Phases")
+![Design Sprint Phases](/images/logo.png?raw=true "Design Sprint Phases")
 
 # Product Design Sprint
 
