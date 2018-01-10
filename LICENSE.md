@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2017 [messy.studio](https://messy.studio)
+Copyright (c) 2018 [messy.design](https://messy.design)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
