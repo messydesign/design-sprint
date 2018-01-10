@@ -16,9 +16,11 @@ To prepare for it, it would be great to have:
 
 Please also review the [Product Design Sprint] section of our Playbook, as well as [Google Ventures' resources about the process][GV].
 
-See you soon. Thanks,
+See you soon. 
 
---____________
+Thanks,
+
+-- The messy.design Team! 
 
 
 [Product Design Sprint]: https://messy.studio/playbook/product-design-sprint/introduction
