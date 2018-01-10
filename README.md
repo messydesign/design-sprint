@@ -181,7 +181,7 @@ experience running them before? [Hire Us!](http://messy.studio.com/hire-us)
 
 ## License
 
-Copyright © 2017 [messy.studio, LLC](http://messy.studio).
+Copyright © 2018 [messy.studio, LLC](http://messy.studio).
 The information contained in Design Sprint is free,
 and may be redistributed under the terms specified in the
 [license](LICENSE.md).
