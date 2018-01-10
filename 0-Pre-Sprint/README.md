@@ -13,7 +13,7 @@ completion.
 **Recorder** Takes notes, photographs and is in charge of the documentation for
 the sprint.
 
-**Product Owner** Typically the client and the person with the initial product vision. 
+**Product Owner** Typically the client and/or the person with the initial product vision. 
 This person has final say in the product.
 
 ### Set expectations for the outcome for the sprint
@@ -38,13 +38,13 @@ integrations.
 - Some big questions
 
 A common outcome after a user study is a mixed bag: a few hits, a few
-tweaks, and a couple of real head-scratchers. Fortunately Keynote prototypes are
+tweaks, and a couple of real head-scratchers. Fortunately Keynote or Invision prototypes are
 easy to change, and as long as some parts of your design are solid, you can
 probably build on what you have.
 
 What to do next: You can move fast on the tweaks, but you’ll want to come up
 with multiple solutions for the bigger problems. Start your next sprint at step
-2 (diverge).
+2 (Diverge).
 
 - Everything exploded
 
@@ -55,7 +55,7 @@ and launching a full product.
 Think what would have happened if you’d spent weeks or
 months implementing this solution!
 
-What to do next: Start your next sprint back at the drawing board with step 1 (understand). (Hint: the results of this study are perfect fodder for reviewing and building understanding as a group.)
+What to do next: Start your next sprint back at the drawing board with step 1 (Understand). (Hint: the results of this study are perfect fodder for reviewing and building understanding as a group.)
 
 ### Review design sprint documentation and schedule
 
