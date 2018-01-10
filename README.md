@@ -5,7 +5,7 @@
 This repo is a collection of documents intended to help guide a design sprint.
 It contains guidelines that should not be followed exactly.
 Each sprint should be tailored to the individual project.
-It is written by and for the messy.studio team.
+It is written by and for the messy.design team.
 
 * [Previous Sprints](Previous-Sprints)
 * [Pre-Sprint Preparation](0-Pre-Sprint)
@@ -171,13 +171,10 @@ review the [contributing guidelines](CONTRIBUTING.md) if you'd like to help out.
 
 ## Credits
 
-This repo is maintained and funded by [messy.studio, LLC](http://messy.studio).
-Tweet your questions or suggestions to
-[@messy_studio](https://twitter.com/messy_studio)
-and while you're at it follow us too.
+This repo is maintained and funded by [messy.design, LLC](http://messy.design).
 
 Looking to run your own design sprint but want help from someone who has
-experience running them before? [Hire Us!](http://messy.studio.com/hire-us)
+experience running them before? [Hire Us!](http://http://messy.design/#contact)
 
 ## License
 
