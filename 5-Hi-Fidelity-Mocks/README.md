@@ -25,7 +25,7 @@ The industry-standard vector graphics app lets you create logos, icons, sketches
 
 #### [Brand.ai](http://www.brand.ai)
 
-Cloud based pattern librray. This is also a plugin that we leverage heavily in Sketch so that everyone has the most up to date design assets. 
+Cloud based pattern library. This is also a plugin that we leverage heavily in Sketch so that everyone has the most up to date design assets. 
 
 #### [Zeplin](http://www.zeplin.io)
 
