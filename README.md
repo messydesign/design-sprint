@@ -1,4 +1,4 @@
-# messy.design Design Sprint Playbook
+# messy.design Product Design Playbook
 
 ![Design Sprint Phases](https://raw.githubusercontent.com/messydesign/design-sprint/master/images/phases.png)
 
