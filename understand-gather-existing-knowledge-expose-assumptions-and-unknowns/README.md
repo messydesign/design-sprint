@@ -34,7 +34,7 @@ This activity is meant to get consensus on what the problem that is trying to be
 
 As a group, use your common understanding to collaboratively map out the user story that’s important in this sprint. The facilitator \(or another volunteer\) should stand at the whiteboard and sketch the flow. This doesn’t have to be fancy to be useful.
 
-#### [Start an Assumptions Board](../exercises/assumptions.md)
+#### [Start an Assumptions Board](../exercises/assumptions-test-board.md)
 
 Throughout the day and rest of the week we will ask questions we don’t have answers to and identify assumptions we are relying on. We will capture these ‘Assumptions’ on a board for later organization and analysis.
 
@@ -42,7 +42,7 @@ Throughout the day and rest of the week we will ask questions we don’t have an
 
 Identifying the problem will help to determine if there is a problem, if that problem is solvable, and how to solve that problem. This step will be the first step to answering this question: What is this product, and is it useful?
 
-#### [Start a Back-burner Board](../exercises/back-burner.md)
+#### [Start a Back-burner Board](../exercises/back-burner-board.md)
 
 We will also be generating a lot of ideas throughout the week. Some of the ideas will be pertinent to the tasks at hand, but others, although interesting, won’t be. We will capture these good but not immediately relevant ‘back-burner ideas’ on a sticky note board.
 
@@ -56,5 +56,5 @@ Card sorting helps categorize and prioritize features, ideas and different conce
 
 --
 
-### [Example Schedule for Understand](schedule.md)
+### [Example Schedule for Understand](example-schedule-for-understand.md)
 

@@ -1,8 +1,8 @@
 # Prototype: Quickly build the right path
 
-The core purpose of the prototype, the assumptions you are trying to validate/invalidate or the knowledge gaps you are trying to fill should have all been discussed in [Converge](3-converge/). During this phase you will build a quick and dirty prototype. Since you only have at most a day to build the prototype it should be as low-fi as you can get away with during [Testing](https://github.com/messydesign/design-sprint/tree/b40dd9aa407c1feb52da507f04d2ea242f7d6063/5-Test/README.md).
+The core purpose of the prototype, the assumptions you are trying to validate/invalidate or the knowledge gaps you are trying to fill should have all been discussed in [Converge](converge-choose-the-right-path/). During this phase you will build a quick and dirty prototype. Since you only have at most a day to build the prototype it should be as low-fi as you can get away with during [Testing](https://github.com/messydesign/design-sprint/tree/b40dd9aa407c1feb52da507f04d2ea242f7d6063/5-Test/README.md).
 
-During this phase roles shift. Designers are typically the ones building the prototype unless it is low-fi enough for everyone to contribute \(see: [Keynote](4-prototype.md#keynote) or [Paper Prototype](4-prototype.md#paper-prototype)\). Product Owners should be in charge of getting realistic information, data and copy into the prototype. It should be clear what everyone's role is before the phase starts. The team should check in with each other as much as possible to make sure everything is on the right track.
+During this phase roles shift. Designers are typically the ones building the prototype unless it is low-fi enough for everyone to contribute \(see: [Keynote](prototype-quickly-build-the-right-path.md#keynote) or [Paper Prototype](prototype-quickly-build-the-right-path.md#paper-prototype)\). Product Owners should be in charge of getting realistic information, data and copy into the prototype. It should be clear what everyone's role is before the phase starts. The team should check in with each other as much as possible to make sure everything is on the right track.
 
 ## Activities for Prototype
 

@@ -6,5 +6,5 @@ Here is a living list of previous sprints. After running a design sprint, feel f
 
 ======
 
-[Example Project](example-month-day-year.md): _Month, Year - Melissa McWilliams & Craig Upton_
+[Example Project](readme.md): _Month, Year - Melissa McWilliams & Craig Upton_
 

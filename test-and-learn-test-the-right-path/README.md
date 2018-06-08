@@ -1,6 +1,6 @@
 # Test & Learn: Test the right path
 
-Reactions to competitive demos, our assumptions for the prototype, what we were looking for and the reactions to the prototype. Going into each test you should have a plan of what you are testing and how you know if that is successful or not. This is best achieved through a [Assumption / Test table](../exercises/assumptions.md)
+Reactions to competitive demos, our assumptions for the prototype, what we were looking for and the reactions to the prototype. Going into each test you should have a plan of what you are testing and how you know if that is successful or not. This is best achieved through a [Assumption / Test table](../exercises/assumptions-test-board.md)
 
 ## Activities for Validate and Learn
 

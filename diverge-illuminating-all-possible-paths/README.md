@@ -35,5 +35,5 @@ This critique exercise is more open and allows for a more detailed conversation.
 
 3-12-3 is a good way to generate ideas in a big group and then start to converge them down. It is great to do after the Google Ventures Diverge Cycle when there seems to be more ideas and no really strong direction forward.
 
-## [Example Schedule](schedule.md)
+## [Example Schedule](example-schedule-for-diverge.md)
 
