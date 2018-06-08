@@ -1,6 +1,6 @@
 # Table of contents
 
-* [messy.design Product Design Playbook](README.md)
+* [messy.design Design Sprint Playbook](README.md)
 * [Diverge: Illuminating all possible paths](diverge-illuminating-all-possible-paths/README.md)
   * [Example Schedule for Diverge](diverge-illuminating-all-possible-paths/example-schedule-for-diverge.md)
 * [Pre-sprint](pre-sprint/README.md)
