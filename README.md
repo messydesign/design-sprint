@@ -1,6 +1,6 @@
 # README
 
-![Design Sprint Phases](https://github.com/messydesign/design-sprint/tree/b40dd9aa407c1feb52da507f04d2ea242f7d6063/images/phases.png?raw=true)
+![Design Sprint Phases](https://raw.githubusercontent.com/messydesign/design-sprint/master/images/phases.png)
 
 ## Product Design Playbook
 
