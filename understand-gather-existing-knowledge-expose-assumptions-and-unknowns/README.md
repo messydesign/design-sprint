@@ -8,7 +8,7 @@ The team should also talk about what they don't know, where knowledge gaps are f
 
 At the end of Understand the team should have captured the critical path for the problem.
 
-## A Guide for Understand:
+## A Guide for 'Understand':
 
 As you work through the understand phase of a sprint there will be a lot of questions that come up and information that is uncovered.
 
