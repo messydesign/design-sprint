@@ -104,5 +104,5 @@ Looking to run your own design sprint but want help from someone who has experie
 
 ### License
 
-Copyright © 2018 [messy.design, LLC](http://messy.design). The information contained in Design Sprint is free, and may be redistributed under the terms specified in the [license]().
+Copyright © 2019 [messy.design, LLC](http://messy.design). The information contained in Design Sprint is free, and may be redistributed under the terms specified in the [license]().
 
