@@ -4,7 +4,9 @@
 
 ## Product Design Playbook
 
-This repo is a collection of documents intended to help guide a design sprint. It contains guidelines that should not be followed exactly. Each sprint should be tailored to the individual project. It is written by and for the messy.design team. This was originally published by the [Thoughbot](http://thoughtbot.com) team - they deserve all the credit for putting such a comprehensive list together. 
+This repo is a collection of documents intended to help guide a design sprint. It contains guidelines that should not be followed exactly. Each sprint should be tailored to the individual project. 
+
+This was originally published by the [Thoughbot](http://thoughtbot.com) team - they deserve all the credit for putting such a comprehensive list together. 
 
 * [Previous Sprints](previous-sprints/)
 * [Pre-Sprint Preparation](pre-sprint/)
