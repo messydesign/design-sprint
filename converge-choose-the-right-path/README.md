@@ -1,4 +1,8 @@
-# Converge: Choose the right path
+---
+description: Choose the right path
+---
+
+# Converge
 
 During Converge our goal is to take all of the possibilities that we have exposed over the past two days and hone in on a single version of the prototype that we will build tomorrow.
 
