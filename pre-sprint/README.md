@@ -1,6 +1,6 @@
 # Pre-sprint
 
-## Send out [Client Worksheet](materials/pre-sprint_client_worksheet.md), [Request for Materials](materials/pre-sprint_request_for_materials.md) and Workshop Pre-Read
+## Send out [Client Worksheet](materials/pre-sprint_client_worksheet.md), [Request for Materials](materials/pre-sprint_request_for_materials.md) and [Workshop Pre-Read](materials/workshop-pre-read.md)
 
 Notify all members of the sprint to set up the expectation of anything that they need to complete before the sprint and what to expect during the sprint.
 
