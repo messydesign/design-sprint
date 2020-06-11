@@ -7,7 +7,7 @@
   * [Materials](pre-sprint/materials/README.md)
     * [Pre-Sprint\_Client\_Worksheet](pre-sprint/materials/pre-sprint_client_worksheet.md)
     * [Pre-Sprint\_Request\_for\_Materials](pre-sprint/materials/pre-sprint_request_for_materials.md)
-* [Understand: Gather existing knowledge, expose assumptions and unknowns](understand-gather-existing-knowledge-expose-assumptions-and-unknowns/README.md)
+* [Understand](understand-gather-existing-knowledge-expose-assumptions-and-unknowns/README.md)
   * [Materials](understand-gather-existing-knowledge-expose-assumptions-and-unknowns/materials/README.md)
     * [Competitive Analysis](understand-gather-existing-knowledge-expose-assumptions-and-unknowns/materials/competitive-analysis.md)
     * [Gathering Forces](understand-gather-existing-knowledge-expose-assumptions-and-unknowns/materials/gathering-forces.md)
