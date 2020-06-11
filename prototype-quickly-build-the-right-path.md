@@ -1,4 +1,8 @@
-# Prototype: Quickly build the right path
+---
+description: Quickly build the right path
+---
+
+# Prototype
 
 The core purpose of the prototype, the assumptions you are trying to validate/invalidate or the knowledge gaps you are trying to fill should have all been discussed in [Converge](converge-choose-the-right-path/). During this phase you will build a quick and dirty prototype. Since you only have at most a day to build the prototype it should be as low-fi as you can get away with during [Testing](https://github.com/messydesign/design-sprint/tree/b40dd9aa407c1feb52da507f04d2ea242f7d6063/5-Test/README.md).
 

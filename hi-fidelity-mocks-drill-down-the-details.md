@@ -1,4 +1,8 @@
-# Hi-Fidelity Mocks: Drill down the details
+---
+description: Drill down the details
+---
+
+# Hi-Fidelity Mocks
 
 The core purpose of the hi-fidelity mock, the assumptions you are trying to validate/invalidate or the knowledge gaps you are trying to fill should have all been discussed in [Converge](converge-choose-the-right-path/) and details sussed out in [Prototype](prototype-quickly-build-the-right-path.md). During this phase you will build a more details and highly designed mocks that can be shared with high level stakeholders.
 
