@@ -1,4 +1,4 @@
-# CONTRIBUTING
+# Contributing
 
 We love new ideas that push this repository and design sprints forward. We are using [GitHub issues](https://github.com/messystudio/design-sprint/issues/) for tracking our work on the repository. Here are the ways that you can contribute:
 

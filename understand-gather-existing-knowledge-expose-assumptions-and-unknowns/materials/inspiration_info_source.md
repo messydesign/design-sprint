@@ -1,4 +1,4 @@
-# Inspiration\_Info\_Source
+# Inspiration Info Source
 
 ## TODO: find a way to make this more visual
 

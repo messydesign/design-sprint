@@ -4,9 +4,9 @@
 
 ## Product Design Playbook
 
-This repo is a collection of documents intended to help guide a design sprint. It contains guidelines that should not be followed exactly. Each sprint should be tailored to the individual project. 
+This repo is a collection of documents intended to help guide a design sprint. It contains guidelines that should not be followed exactly. Each sprint should be tailored to the individual project.
 
-This was originally published by the [Thoughbot](http://thoughtbot.com) team - they deserve all the credit for putting such a comprehensive list together. 
+This was originally published by the [Thoughbot](http://thoughtbot.com) team - they deserve all the credit for putting such a comprehensive list together.
 
 * [Previous Sprints](previous-sprints/)
 * [Pre-Sprint Preparation](pre-sprint/)
@@ -67,6 +67,10 @@ The Test phase tests our prototype with existing or potential customers. By the 
 
 Throughout the sprint you want to be recording as much as possible. We've found Trello to be an excellent tool to help the team record the activities taken during the sprint. This template helps alleviate some of the initial setup for the board and leaves references to this repo.
 
+### [Design Sprint ](https://trello.com/b/c5xQNd8X/design-sprint-process)Miro Remote Workshop Template
+
+Throughout the sprint you want to be recording as much as possible. We've found Trello to be an excellent tool to help the team record the activities taken during the sprint. This template helps alleviate some of the initial setup for the board and leaves references to this repo.
+
 Copy [this template](https://trello.com/b/c5xQNd8X/design-sprint-process) to your own board to help guide and document your sprint.
 
 ### Example Design Sprint Schedule
@@ -106,5 +110,5 @@ Looking to run your own design sprint but want help from someone who has experie
 
 ### License
 
-Copyright © 2019 [messy.design, LLC](http://messy.design). The information contained in Design Sprint is free, and may be redistributed under the terms specified in the [license]().
+Copyright © 2020 [messy.design, LLC](http://messy.design). The information contained in Design Sprint is free, and may be redistributed under the terms specified in the [license](./).
 
