@@ -33,5 +33,5 @@ Needs, Wants, Desires is a [Card Sorting](card-sorting.md) exercise to help figu
 
 ## Examples
 
-![Needs, Wants, Desires](../.gitbook/assets/needs-wants-desires.jpg)
+![Needs, Wants, Desires](../../.gitbook/assets/needs-wants-desires.jpg)
 

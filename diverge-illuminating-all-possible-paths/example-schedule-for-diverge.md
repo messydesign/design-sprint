@@ -6,7 +6,7 @@
 
 Everyone participates, you don’t need to be an artist \(I’m not!\) to sketch and visualize your ideas. No ideas are too wild!
 
-## [Pitch Practice](../exercises/pitch-practice.md) _\(10min\)_
+## [Pitch Practice](../converge-choose-the-right-path/exercises/pitch-practice.md) _\(10min\)_
 
 ## Recap Day 1, identify biggest risks, determine goals for the prototype _\(45min\)_
 
@@ -16,11 +16,11 @@ Write down the user story that is most important for this sprint or that best ad
 
 ## Diverge Cycle _\(2 hours\)_
 
-* [Mind Mapping](../exercises/mind-mapping.md) _\(15min\)_
-* [Crazy Eights](../exercises/crazy-eights.md) _\(5min\)_
-* [Storyboard](../exercises/storyboards.md) _\(20min\)_
-* [Silent critique](../exercises/silent-critique.md) _\(10min\)_
-* [Group critique](../exercises/group-critique.md) _\(3-5min each person\)_
+* [Mind Mapping](../converge-choose-the-right-path/exercises/mind-mapping.md) _\(15min\)_
+* [Crazy Eights](../converge-choose-the-right-path/exercises/crazy-eights.md) _\(5min\)_
+* [Storyboard](../converge-choose-the-right-path/exercises/storyboards.md) _\(20min\)_
+* [Silent critique](../converge-choose-the-right-path/exercises/silent-critique.md) _\(10min\)_
+* [Group critique](../converge-choose-the-right-path/exercises/group-critique.md) _\(3-5min each person\)_
 
 ## Repeat Diverge Cycle _\(2 hrs\)_
 

@@ -39,7 +39,7 @@ For more detailed explanation see [Card Sorting](http://robots.thoughtbot.com/ca
 
 ### Open Card Sorting
 
-![Open Card Sorting](../.gitbook/assets/open-card-sorting.jpg)
+![Open Card Sorting](../../.gitbook/assets/open-card-sorting.jpg)
 
 ### Closed Card Sorting
 

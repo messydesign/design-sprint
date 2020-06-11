@@ -36,5 +36,5 @@ It is best to always keep track of the assumptions that you and your team are ma
 
 From [The Product Design Sprint](http://robots.thoughtbot.com/the-product-design-sprint)
 
-![Assumption Test Example](../.gitbook/assets/assumption-test.jpg)
+![Assumption Test Example](../../.gitbook/assets/assumption-test.jpg)
 

@@ -1,6 +1,6 @@
 # Test & Learn: Test the right path
 
-Reactions to competitive demos, our assumptions for the prototype, what we were looking for and the reactions to the prototype. Going into each test you should have a plan of what you are testing and how you know if that is successful or not. This is best achieved through a [Assumption / Test table](../exercises/assumptions-test-board.md)
+Reactions to competitive demos, our assumptions for the prototype, what we were looking for and the reactions to the prototype. Going into each test you should have a plan of what you are testing and how you know if that is successful or not. This is best achieved through a [Assumption / Test table](../converge-choose-the-right-path/exercises/assumptions-test-board.md)
 
 ## Activities for Validate and Learn
 
@@ -8,7 +8,7 @@ Reactions to competitive demos, our assumptions for the prototype, what we were 
 
 This is the most used form of testing. Bring in 4–6 potential users and show them the prototype that you made. Pay close attention to problems that they have and be sure to follow a script to cover the assumptions that you are testing. With their permission you can record these but it's best to see them as they happen.
 
-#### [Closed Card Sorting](../exercises/card-sorting.md)
+#### [Closed Card Sorting](../converge-choose-the-right-path/exercises/card-sorting.md)
 
 A design exercise that guides us toward creating the most coherent information architecture of a product. During a card sorting session, participants are asked to associate two sets of flashcards by grouping them.
 

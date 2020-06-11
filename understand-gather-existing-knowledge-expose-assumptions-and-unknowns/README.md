@@ -18,39 +18,39 @@ Ask obvious questions and embrace the beginners mind.
 
 ## Activities for Understand:
 
-#### [Needs / Wants / Desires](../exercises/needs-wants-desires.md)
+#### [Needs / Wants / Desires](../converge-choose-the-right-path/exercises/needs-wants-desires.md)
 
 Start with a feature wish list and condense into columns of priority for "Needs" \(aka Must Haves, Top Priority\), "Wants" \(Nice to Haves\), "Desires" \(Would love to have someday...\). This activity is great for ironing out which features are most important and which could potentially be put on the back burner list.
 
-#### [Five Whys](../exercises/five-whys.md)
+#### [Five Whys](../converge-choose-the-right-path/exercises/five-whys.md)
 
 This activity is meant to dig down deep into what the actual reasons are for a problem or what the problem actually is. It is good to use when the apparent problem seems to only be a symptom of a larger problem. It is based off of a game found in [Gamestorming](http://www.gamestorming.com/games-for-problem-solving/the-5-whys/).
 
-#### [Who / What / Where / When](../exercises/who-what-when-where.md)
+#### [Who / What / Where / When](../converge-choose-the-right-path/exercises/who-what-when-where.md)
 
 This activity is meant to get consensus on what the problem that is trying to be solved when the opinions are widely different. It gives everyone a chance to voice they opinions on what. It is based off of a game found in [Gamestorming](http://www.gamestorming.com/games-for-any-meeting/help-me-understand/).
 
-#### [Critical Path](../exercises/critical-path.md)
+#### [Critical Path](../converge-choose-the-right-path/exercises/critical-path.md)
 
 As a group, use your common understanding to collaboratively map out the user story that’s important in this sprint. The facilitator \(or another volunteer\) should stand at the whiteboard and sketch the flow. This doesn’t have to be fancy to be useful.
 
-#### [Start an Assumptions Board](../exercises/assumptions-test-board.md)
+#### [Start an Assumptions Board](../converge-choose-the-right-path/exercises/assumptions-test-board.md)
 
 Throughout the day and rest of the week we will ask questions we don’t have answers to and identify assumptions we are relying on. We will capture these ‘Assumptions’ on a board for later organization and analysis.
 
-#### [Problem Statement](../exercises/problem-statement.md)
+#### [Problem Statement](../converge-choose-the-right-path/exercises/problem-statement.md)
 
 Identifying the problem will help to determine if there is a problem, if that problem is solvable, and how to solve that problem. This step will be the first step to answering this question: What is this product, and is it useful?
 
-#### [Start a Back-burner Board](../exercises/back-burner-board.md)
+#### [Start a Back-burner Board](../converge-choose-the-right-path/exercises/back-burner-board.md)
 
 We will also be generating a lot of ideas throughout the week. Some of the ideas will be pertinent to the tasks at hand, but others, although interesting, won’t be. We will capture these good but not immediately relevant ‘back-burner ideas’ on a sticky note board.
 
-#### [Pitch Practice](../exercises/pitch-practice.md)
+#### [Pitch Practice](../converge-choose-the-right-path/exercises/pitch-practice.md)
 
 The product owner should walk the sprint team through the business opportunity and market. The repetition of this process throughout the design sprint helps to reinforce an understanding of the essential value of the product.
 
-#### [Open Card Sorting](../exercises/card-sorting.md)
+#### [Open Card Sorting](../converge-choose-the-right-path/exercises/card-sorting.md)
 
 Card sorting helps categorize and prioritize features, ideas and different concepts so that it is easier to understand the problem. It is useful for working through user flow, moving features to the back burner board and merging similar ideas.
 

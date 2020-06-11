@@ -26,5 +26,5 @@ It is best to identify the job-to-be-done that the sprint is trying to solve as 
 
 ## Example
 
-![Problem Statement](../.gitbook/assets/problem-statement.jpg)
+![Problem Statement](../../.gitbook/assets/problem-statement.jpg)
 

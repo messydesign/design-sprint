@@ -49,5 +49,5 @@ From [The product design sprint: diverge \(day 2\)](http://www.gv.com/lib/the-pr
 
 ## Examples
 
-![Individual Storyboards](../.gitbook/assets/storyboard.jpg) ![Group of Storyboards](../.gitbook/assets/storyboards.JPG) ![Group of Storyboards](../.gitbook/assets/storyboards-2.jpg) ![Individual Storyboards](../.gitbook/assets/storyboard-2.jpg)
+![Individual Storyboards](../../.gitbook/assets/storyboard.jpg) ![Group of Storyboards](../../.gitbook/assets/storyboards.JPG) ![Group of Storyboards](../../.gitbook/assets/storyboards-2.jpg) ![Individual Storyboards](../../.gitbook/assets/storyboard-2.jpg)
 

@@ -45,5 +45,5 @@ From [The product design sprint: understand \(day 1\)](https://www.gv.com/lib/th
 
 The end result often looks like the map of a bus or subway line: ![Galen&apos;s Critical Path](http://images.thoughtbot.com/the-product-design-sprint/criticalpath.jpg) From [The Product Design Sprint](http://robots.thoughtbot.com/the-product-design-sprint)
 
-![Example Critical Path](../.gitbook/assets/critical-path.jpg)
+![Example Critical Path](../../.gitbook/assets/critical-path.jpg)
 

@@ -67,11 +67,9 @@ The Test phase tests our prototype with existing or potential customers. By the 
 
 Throughout the sprint you want to be recording as much as possible. We've found Trello to be an excellent tool to help the team record the activities taken during the sprint. This template helps alleviate some of the initial setup for the board and leaves references to this repo.
 
-### [Design Sprint ](https://trello.com/b/c5xQNd8X/design-sprint-process)Miro Remote Workshop Template
+### [Miro Design Sprint Workshop Toolkit](https://miro.com/templates/design-sprint-kit/)
 
-Throughout the sprint you want to be recording as much as possible. We've found Trello to be an excellent tool to help the team record the activities taken during the sprint. This template helps alleviate some of the initial setup for the board and leaves references to this repo.
-
-Copy [this template](https://trello.com/b/c5xQNd8X/design-sprint-process) to your own board to help guide and document your sprint.
+An excellent repository of essential tools that will aid in your workshop creation. This toolkit provides templates for; ice-breakers, workshop agenda and canvas 
 
 ### Example Design Sprint Schedule
 
@@ -82,8 +80,7 @@ Copy [this template](https://trello.com/b/c5xQNd8X/design-sprint-process) to you
 
 ### Further Reading
 
-* [thoughtbot's blog post](http://robots.thoughtbot.com/the-product-design-sprint)
-* [thoughtbot playbook](https://thoughtbot.com/playbook/product-design-sprint/introduction)
+* [Thoughtbot's blog post](http://robots.thoughtbot.com/the-product-design-sprint)
 * Google Ventures [Design Staff blog posts](http://www.designstaff.org/articles/product-design-sprint-2012-10-02.html)
   * [Before the sprint: Prepare](http://www.designstaff.org/articles/product-design-sprint-2-2012-10-09.html)
   * [Day 1: Understand](http://www.designstaff.org/articles/product-design-sprint-day-1-understand-2012-10-16.html)
@@ -92,7 +89,7 @@ Copy [this template](https://trello.com/b/c5xQNd8X/design-sprint-process) to you
   * [Day 4: Prototype](http://www.designstaff.org/articles/product-design-sprint-day-4-prototype-2013-01-07.html)
   * [Day 5: Hi-Fidelity Mocks](http://steadfastcreative.com/low-fidelity-vs-high-fidelity-wireframes/)
   * [Day 5: Validate](http://www.designstaff.org/articles/product-design-sprint-day-5-validate-2013-03-07.html)
-* IDEO's [Human Centered Design Toolkit](http://www.ideo.com/work/human-centered-design-toolkit/)
+* [IDEO's Human Centered Design Toolkit](https://www.ideo.com/post/design-kit)
 * [How To Conduct Your Own Google Ventures Design Sprint](http://www.fastcodesign.com/1672887/how-to-conduct-your-own-google-design-sprint)
 * [Personal Design Sprint](http://franciscortez.com/design-sprint/)
 * [Gamestorming](http://www.amazon.com/Gamestorming-Playbook-Innovators-Rulebreakers-Changemakers/dp/0596804172) and the [Gamestorming Wiki](http://www.gamestorming.com/the-wiki/)
@@ -104,11 +101,11 @@ We love new ideas that push this repository and design sprints forward. Please r
 
 ### Credits
 
-This repo is maintained and funded by [messy.design, LLC](http://messy.design).
+This repo is maintained and funded by [messy.design](http://messy.design).
 
-Looking to run your own design sprint but want help from someone who has experience running them before? [Hire Us!](http://http://messy.design/#contact)
+Looking to run your own design sprint but want help from someone who has experience running them before? [Hire Us!](https://messy.design/)
 
 ### License
 
-Copyright © 2020 [messy.design, LLC](http://messy.design). The information contained in Design Sprint is free, and may be redistributed under the terms specified in the [license](./).
+Copyright © 2020 [messy.design](http://messy.design). The information contained in Design Sprint is free, and may be redistributed under the terms specified in the [license](./).
 

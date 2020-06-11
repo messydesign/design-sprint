@@ -34,5 +34,5 @@ See also [Dot voting](http://www.gamestorming.com/core-games/dot-voting/)
 
 ## Examples
 
-![Silent Voting](../.gitbook/assets/silent-voting.JPG) ![Silent Voting](../.gitbook/assets/storyboards-2%20%281%29.jpg) ![Silent Voting](../.gitbook/assets/storyboard%20%281%29.jpg)
+![Silent Voting](../../.gitbook/assets/silent-voting.JPG) ![Silent Voting](../../.gitbook/assets/storyboards-2%20%281%29.jpg) ![Silent Voting](../../.gitbook/assets/storyboard%20%281%29.jpg)
 

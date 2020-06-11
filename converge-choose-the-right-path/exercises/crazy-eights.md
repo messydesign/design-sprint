@@ -33,5 +33,5 @@ Originally based on the [6-8-5](http://www.gamestorming.com/games-for-fresh-thin
 
 ## Examples
 
-![Crazy Eights Example](../.gitbook/assets/crazy-eights.jpg) ![Crazy Eights Example](../.gitbook/assets/crazy-six.jpg) ![Crazy Eights Example](../.gitbook/assets/crazy-six-2.jpg)
+![Crazy Eights Example](../../.gitbook/assets/crazy-eights.jpg) ![Crazy Eights Example](../../.gitbook/assets/crazy-six.jpg) ![Crazy Eights Example](../../.gitbook/assets/crazy-six-2.jpg)
 

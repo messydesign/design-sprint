@@ -29,5 +29,5 @@ A lot of ideas will be generated throughout the week. Some of the ideas will be 
 
 ## Example
 
-![Back Burner](../.gitbook/assets/back-burner.jpg)
+![Back Burner](../../.gitbook/assets/back-burner.jpg)
 
