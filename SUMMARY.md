@@ -5,7 +5,7 @@
   * [README](previous-sprints/previous-sprints.md)
 * [Pre-sprint](pre-sprint/README.md)
   * [Materials](pre-sprint/materials/README.md)
-    * [Pre-Sprint\_Client\_Worksheet](pre-sprint/materials/pre-sprint_client_worksheet.md)
+    * [Pre-Sprint Client Worksheet](pre-sprint/materials/pre-sprint_client_worksheet.md)
     * [Pre-Sprint Request for Materials](pre-sprint/materials/pre-sprint_request_for_materials.md)
 * [Understand](understand-gather-existing-knowledge-expose-assumptions-and-unknowns/README.md)
   * [Materials](understand-gather-existing-knowledge-expose-assumptions-and-unknowns/materials/README.md)

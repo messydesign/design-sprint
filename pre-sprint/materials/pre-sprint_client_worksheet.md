@@ -1,6 +1,6 @@
-# Pre-Sprint\_Client\_Worksheet
+# Pre-Sprint Client Worksheet
 
-Dear _**\_\_**_,
+Dear _**\_\_\_\_\_\_**_,
 
 Thank you for choosing messy.design to help you develop your product! We are excited to work with you and your team to help your business successfully grow. In order to achieve this goal, we are kicking off the project with the 5-day Product Design Sprint to better understand how we can work together to create a successful product.
 
