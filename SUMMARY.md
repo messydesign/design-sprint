@@ -7,6 +7,7 @@
   * [Materials](pre-sprint/materials/README.md)
     * [Pre-Sprint Client Worksheet](pre-sprint/materials/pre-sprint_client_worksheet.md)
     * [Pre-Sprint Request for Materials](pre-sprint/materials/pre-sprint_request_for_materials.md)
+    * [Workshop Pre-Read](pre-sprint/materials/workshop-pre-read.md)
 * [Understand](understand-gather-existing-knowledge-expose-assumptions-and-unknowns/README.md)
   * [Materials](understand-gather-existing-knowledge-expose-assumptions-and-unknowns/materials/README.md)
     * [Competitive Analysis](understand-gather-existing-knowledge-expose-assumptions-and-unknowns/materials/competitive-analysis.md)
